@@ -1,0 +1,54 @@
++----+------------+-----------+------+--------+--------+--------+------------+------------+------------+-------------+-----------+------------------+-------------+----------------+
+| id | first_name | last_name | bats | throws | weight | height |   debut    | final_game | birth_year | birth_month | birth_day |    birth_city    | birth_state | birth_country  |
++----+------------+-----------+------+--------+--------+--------+------------+------------+------------+-------------+-----------+------------------+-------------+----------------+
+| 1  | Al         | Pratt     | NULL | R      | 140    | 67     | 1871-05-04 | 1872-08-19 | 1847       | 11          | 19        | Pittsburgh       | PA          | USA            |
+| 2  | Art        | Allison   | NULL | NULL   | 150    | 68     | 1871-05-04 | 1876-10-05 | 1849       | 1           | 29        | Philadelphia     | PA          | USA            |
+| 3  | Bill       | Kelly     | NULL | NULL   | 150    | 67     | 1871-05-04 | 1871-08-29 | NULL       | NULL        | NULL      | New York         | NY          | USA            |
+| 4  | Bill       | Lennon    | NULL | NULL   | 145    | 67     | 1871-05-04 | 1873-07-11 | 1845       | 1           | 3         | Brooklyn         | NY          | USA            |
+| 5  | Bobby      | Mathews   | R    | R      | 140    | 65     | 1871-05-04 | 1887-10-10 | 1851       | 11          | 21        | Baltimore        | MD          | USA            |
+| 6  | Charlie    | Pabor     | L    | L      | 155    | 68     | 1871-05-04 | 1875-10-28 | 1846       | 9           | 24        | Brooklyn         | NY          | USA            |
+| 7  | Deacon     | White     | L    | R      | 175    | 71     | 1871-05-04 | 1890-10-04 | 1847       | 12          | 2         | Caton            | NY          | USA            |
+| 8  | Ed         | Mincher   | NULL | NULL   | 155    | 67     | 1871-05-04 | 1872-06-26 | 1851       | 6           | 17        | Baltimore        | MD          | USA            |
+| 9  | Elmer      | White     | NULL | NULL   | NULL   | NULL   | 1871-05-04 | 1871-09-27 | 1849       | 12          | 7         | Caton            | NY          | USA            |
+| 10 | Ezra       | Sutton    | R    | R      | 153    | 68     | 1871-05-04 | 1888-06-20 | 1849       | 9           | 17        | Seneca Falls     | NY          | USA            |
+| 11 | Frank      | Sellman   | NULL | NULL   | 145    | 69     | 1871-05-04 | 1875-05-03 | 1851       | 1           | 21        | Baltimore        | MD          | USA            |
+| 12 | Gene       | Kimball   | NULL | NULL   | 160    | 70     | 1871-05-04 | 1871-09-27 | 1850       | 8           | 31        | Rochester        | NY          | USA            |
+| 13 | James      | McDermott | NULL | NULL   | NULL   | NULL   | 1871-05-04 | 1872-07-06 | 1846       | NULL        | NULL      | Brooklyn         | NY          | USA            |
+| 14 | Jim        | Carleton  | NULL | NULL   | 155    | 68     | 1871-05-04 | 1872-05-22 | 1848       | 8           | 20        | Clinton          | CT          | USA            |
+| 15 | Jim        | Foran     | NULL | NULL   | 159    | 66     | 1871-05-04 | 1871-08-29 | 1847       | NULL        | NULL      | NULL             | PA          | USA            |
+| 16 | John       | Bass      | NULL | NULL   | 150    | 66     | 1871-05-04 | 1877-08-20 | 1848       | NULL        | NULL      | Charleston       | MD          | USA            |
+| 17 | Tom        | Carey     | R    | R      | 145    | 68     | 1871-05-04 | 1879-09-29 | 1846       | 11          | 2         | Brooklyn         | NY          | USA            |
+| 18 | Wally      | Goldsmith | NULL | NULL   | 146    | 67     | 1871-05-04 | 1875-06-14 | 1848       | 10          | NULL      | Baltimore        | MD          | USA            |
+| 19 | Al         | Spalding  | R    | R      | 170    | 73     | 1871-05-05 | 1878-08-31 | 1850       | 9           | 2         | Byron            | IL          | USA            |
+| 20 | Andy       | Leonard   | R    | R      | 168    | 67     | 1871-05-05 | 1880-07-06 | 1846       | 6           | 1         | NULL             | Antrim      | Ireland        |
+| 21 | Asa        | Brainard  | NULL | R      | 150    | 68     | 1871-05-05 | 1874-10-14 | 1841       | NULL        | NULL      | Albany           | NY          | USA            |
+| 22 | Cal        | McVey     | R    | R      | 170    | 69     | 1871-05-05 | 1879-09-30 | 1849       | 8           | 30        | Montrose         | IA          | USA            |
+| 23 | Charlie    | Gould     | R    | R      | 172    | 72     | 1871-05-05 | 1877-07-12 | 1847       | 8           | 21        | Cincinnati       | OH          | USA            |
+| 24 | Dave       | Birdsall  | NULL | NULL   | 126    | 69     | 1871-05-05 | 1873-05-17 | 1838       | 7           | 16        | New York         | NY          | USA            |
+| 25 | Davy       | Force     | R    | R      | 130    | 64     | 1871-05-05 | 1886-08-20 | 1849       | 7           | 27        | New York         | NY          | USA            |
+| 26 | Doug       | Allison   | R    | R      | 160    | 70     | 1871-05-05 | 1883-07-13 | 1846       | 7           | 12        | Philadelphia     | PA          | USA            |
+| 27 | Everett    | Mills     | NULL | NULL   | 174    | 73     | 1871-05-05 | 1876-10-17 | 1845       | 1           | 20        | Newark           | NJ          | USA            |
+| 28 | Frank      | Norton    | NULL | NULL   | NULL   | NULL   | 1871-05-05 | 1871-05-05 | 1845       | 6           | 9         | Port Jefferson   | NY          | USA            |
+| 29 | Fred       | Cone      | NULL | NULL   | 171    | 69     | 1871-05-05 | 1871-09-09 | 1848       | 5           | NULL      | Rockford         | IL          | USA            |
+| 30 | Fred       | Waterman  | NULL | NULL   | 148    | 67     | 1871-05-05 | 1875-09-23 | 1845       | NULL        | NULL      | New York         | NY          | USA            |
+| 31 | George     | Hall      | L    | L      | 142    | 67     | 1871-05-05 | 1877-10-06 | 1849       | 3           | 29        | Stepney          | London      | United Kingdom |
+| 32 | George     | Wright    | R    | R      | 150    | 69     | 1871-05-05 | 1882-10-02 | 1847       | 1           | 28        | New York         | NY          | USA            |
+| 33 | Harry      | Berthrong | NULL | NULL   | 140    | 66     | 1871-05-05 | 1871-07-04 | 1844       | 1           | 1         | Mumford          | NY          | USA            |
+| 34 | Harry      | Schafer   | R    | R      | 143    | 69     | 1871-05-05 | 1878-08-31 | 1846       | 8           | 14        | Philadelphia     | PA          | USA            |
+| 35 | Harry      | Wright    | R    | R      | 157    | 69     | 1871-05-05 | 1877-09-29 | 1835       | 1           | 10        | Sheffield        | NULL        | United Kingdom |
+| 36 | Henry      | Burroughs | NULL | NULL   | 147    | 68     | 1871-05-05 | 1872-05-07 | 1845       | 2           | 3         | Newark           | NJ          | USA            |
+| 37 | Ross       | Barnes    | R    | R      | 145    | 68     | 1871-05-05 | 1881-09-21 | 1850       | 5           | 8         | Mount Morris     | NY          | USA            |
+| 38 | Bob        | Addy      | L    | L      | 160    | 68     | 1871-05-06 | 1877-10-06 | 1842       | 2           | NULL      | Port Hope        | ON          | CAN            |
+| 39 | Cap        | Anson     | R    | R      | 227    | 72     | 1871-05-06 | 1897-10-03 | 1852       | 4           | 17        | Marshalltown     | IA          | USA            |
+| 40 | Cherokee   | Fisher    | R    | R      | 164    | 69     | 1871-05-06 | 1878-07-09 | 1844       | 11          | NULL      | Philadelphia     | PA          | USA            |
+| 41 | Denny      | Mack      | R    | R      | 164    | 67     | 1871-05-06 | 1883-09-27 | 1850       | 3           | 14        | Mauch Chunk      | PA          | USA            |
+| 42 | Gat        | Stires    | L    | R      | 180    | 68     | 1871-05-06 | 1871-09-15 | 1849       | 10          | 13        | Hunterdon County | NJ          | USA            |
+| 43 | George     | Bird      | R    | R      | 150    | 69     | 1871-05-06 | 1871-09-15 | 1850       | 6           | 23        | Stillman Valley  | IL          | USA            |
+| 44 | Pony       | Sager     | NULL | NULL   | 140    | 66     | 1871-05-06 | 1871-05-30 | 1848       | 8           | 12        | Holmesburg       | PA          | USA            |
+| 45 | Ralph      | Ham       | NULL | NULL   | 158    | 68     | 1871-05-06 | 1871-09-15 | 1849       | 3           | NULL      | Troy             | NY          | USA            |
+| 46 | Scott      | Hastings  | R    | R      | 161    | 68     | 1871-05-06 | 1877-09-01 | 1847       | 8           | 10        | Hillsboro        | OH          | USA            |
+| 47 | Charlie    | Hodes     | NULL | R      | 175    | 71     | 1871-05-08 | 1874-07-13 | 1848       | NULL        | NULL      | New York         | NY          | USA            |
+| 48 | Ed         | Duffy     | NULL | R      | 152    | 67     | 1871-05-08 | 1871-10-30 | 1844       | NULL        | NULL      | NULL             | NULL        | Ireland        |
+| 49 | Ed         | Pinkham   | L    | L      | 142    | 67     | 1871-05-08 | 1871-09-18 | 1846       | 8           | NULL      | Brooklyn         | NY          | USA            |
+| 50 | George     | Zettlein  | R    | R      | 162    | 69     | 1871-05-08 | 1876-09-16 | 1844       | 7           | 12        | Williamsburg     | NY          | USA            |
++----+------------+-----------+------+--------+--------+--------+------------+------------+------------+-------------+-----------+------------------+-------------+----------------+

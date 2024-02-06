@@ -1,0 +1,144 @@
++-----+----------------------------------------+-----------------+
+| id  |                 title                  | production_code |
++-----+----------------------------------------+-----------------+
+| 139 | Weather or Not                         | CYB141          |
+| 138 | Weather or Not                         | CYB140          |
+| 140 | Trees, Please                          | CYB139          |
+| 137 | Clean-Up on Isle 8                     | CYB138          |
+| 136 | A Garden is Born                       | CYB137          |
+| 135 | Traffic Trouble                        | CYB136          |
+| 134 | Living in Disharmony                   | CYB135          |
+| 133 | The Lilting Loons                      | CYB134          |
+| 132 | Buzz and the Tree                      | CYB133          |
+| 131 | Hacker's Bright Idea                   | CYB132          |
+| 130 | Sustainable by Design                  | CYB131          |
+| 129 | Coral Grief                            | CYB130          |
+| 128 | The Great Outdoors                     | CYB129          |
+| 127 | Duck Stop                              | CYB128          |
+| 126 | Journey of a Thousand Food Miles       | CYB127          |
+| 125 | A Camping Conundrum                    | CYB126          |
+| 124 | Composting in the Clutch               | CYB125          |
+| 123 | Pursuit of the Prism of Power          | CYB124          |
+| 122 | Hacker Hugs a Tree                     | CYB123          |
+| 121 | Soil Turmoil                           | CYB122          |
+| 120 | Water Woes                             | CYB121          |
+| 119 | Missing Bats in Sensible Flats         | CYB120          |
+| 118 | A Garden Grows in Botlyn               | CYB119          |
+| 115 | Space Waste Odyssey                    | CYB118          |
+| 116 | Space Waste Odyssey                    | CYB117          |
+| 117 | Giving Thanks Day                      | CYB116          |
+| 114 | Back to Canalia's Future               | CYB115          |
+| 113 | The Migration Situation                | CYB114          |
+| 112 | A Renewable Hope                       | CYB113          |
+| 111 | Invasion of the Funky Flower           | CYB112          |
+| 110 | Housewarming Party                     | CYB111          |
+| 109 | A Reboot Eve to Remember               | CYB110          |
+| 108 | Plantasaurus!                          | CYB109          |
+| 107 | A Murky Mystery in Mermaidos           | CYB108          |
+| 106 | Creech's Creature Quandary             | CYB107          |
+| 105 | Watts of Halloween Trouble             | CYB106          |
+| 104 | Bottled Up                             | CYB105          |
+| 103 | Parks and Recreation                   | CYB104          |
+| 102 | A Seedy Business                       | CYB103          |
+| 101 | A Recipe for Chaos                     | CYB102          |
+| 100 | Fit to be Heroes                       | CYB101          |
+| 99  | The Cyberchase Movie                   | CYB100          |
+| 98  | The Cyberchase Movie                   | CYB099          |
+| 97  | Trash Creep                            | CYB097          |
+| 96  | Going Solar                            | CYB096          |
+| 95  | An Urchin Matter                       | CYB095          |
+| 92  | Peace, Love, and Hackerness            | CYB094          |
+| 91  | Face-Off!                              | CYB093          |
+| 94  | The Bluebird of Zappiness              | CYB092          |
+| 93  | Hackerized!                            | CYB091          |
+| 90  | The Hacker's Challenge                 | CYB090          |
+| 89  | Spellbound                             | CYB089          |
+| 88  | The Deedle Beast                       | CYB088          |
+| 87  | Father's Day                           | CYB087          |
+| 86  | Blowin' in the Wind Blowin in the Wind | CYB086          |
+| 85  | The X-Factor                           | CYB085          |
+| 84  | The Emperor Has Snow Clothes           | CYB084          |
+| 83  | Weather Watchers Gone With The Fog     | CYB083          |
+| 82  | Spheres of Fears                       | CYB082          |
+| 80  | A Perfect Score                        | CYB081          |
+| 79  | Jimaya Jam                             | CYB080          |
+| 78  | Team Spirit                            | CYB079          |
+| 81  | Chaos as Usual                         | CYB078          |
+| 77  | Step By Step                           | CYB077          |
+| 76  | Escape From Merlin's Maze              | CYB076          |
+| 75  | Unhappily Ever After                   | CYB075          |
+| 74  | When Penguins Fly                      | CYB074          |
+| 73  | Digit's B-Day Surprise                 | CYB073          |
+| 69  | Crystal Clear                          | CYB072          |
+| 63  | The Halloween Howl                     | CYB071          |
+| 72  | A Fraction of a Chance                 | CYB070          |
+| 71  | On the Line                            | CYB069          |
+| 70  | Inside Hacker                          | CYB068          |
+| 67  | The Fairy Borg Father                  | CYB067          |
+| 66  | EcoHaven Ooze                          | CYB066          |
+| 68  | The Flying Parallinis                  | CYB065          |
+| 65  | Designing Mr. Perfect                  | CYB064          |
+| 64  | A Clean Sweep                          | CYB063          |
+| 62  | A Tikiville Turkey Day                 | CYB062          |
+| 57  | Measure For Measure                    | CYB061          |
+| 61  | A Broom Of One's Own                   | CYB060          |
+| 56  | Past Perfect Prediction                | CYB059          |
+| 58  | A Change of Art                        | CYB058          |
+| 55  | Penguin Tears                          | CYB057          |
+| 53  | Balancing Act                          | CYB056          |
+| 59  | The Case of the Missing Memory         | CYB055          |
+| 54  | The Icky Factor                        | CYB054          |
+| 60  | A Crinkle In Time                      | CYB053          |
+| 50  | The Snelfu Snafu                       | CYB052          |
+| 49  | The Snelfu Snafu                       | CYB051          |
+| 47  | A Perfect Fit                          | CYB050          |
+| 52  | Starlight Night                        | CYB049          |
+| 51  | Shari Spotter and the Cosmic Crumpets  | CYB048          |
+| 48  | Be Reasonable                          | CYB047          |
+| 45  | The Creech Who Would be Crowned        | CYB046          |
+| 46  | The Grapes of Plath                    | CYB045          |
+| 44  | A Piece of the Action                  | CYB044          |
+| 41  | EcoHaven CSE                           | CYB043          |
+| 43  | A World Without Zero                   | CYB042          |
+| 42  | The Borg of the Ring                   | CYB041          |
+| 37  | The Wedding Scammer                    | CYB040          |
+| 38  | The Guilty Party                       | CYB039          |
+| 39  | A Time to Cook                         | CYB038          |
+| 36  | Raising the Bar                        | CYB037          |
+| 35  | Double Trouble                         | CYB036          |
+| 34  | A Whale of a Tale                      | CYB035          |
+| 40  | Trick or Treat                         | CYB034          |
+| 32  | Mother's Day                           | CYB033          |
+| 33  | The Eye of Rom                         | CYB032          |
+| 31  | All the Right Angles                   | CYB031          |
+| 28  | Totally Rad                            | CYB030          |
+| 27  | Hugs & Witches                         | CYB029          |
+| 30  | True Colors                            | CYB028          |
+| 29  | Harriet Hippo & the Mean Green         | CYB027          |
+| 25  | A Battle of Equals                     | CYB026          |
+| 24  | Size Me Up                             | CYB025          |
+| 23  | Fortress of Attitude                   | CYB024          |
+| 22  | Model Behavior                         | CYB023          |
+| 26  | Out of Sync                            | CYB022          |
+| 20  | Trading Places                         | CYB021          |
+| 19  | Send in the Clones                     | CYB020          |
+| 16  | Codename: Icky                         | CYB019          |
+| 12  | Of All The Luck                        | CYB018          |
+| 15  | Find Those Gleamers                    | CYB017          |
+| 18  | Problem Solving in Shangri-La          | CYB016          |
+| 13  | Eureeka                                | CYB015          |
+| 14  | Cool It                                | CYB014          |
+| 21  | Less Than Zero                         | CYB013          |
+| 17  | Return to Sensible Flats               | CYB012          |
+| 11  | A Day at the Spa                       | CYB011          |
+| 2   | Castleblanca                           | CYB010          |
+| 9   | Clock Like An Egyptian                 | CYB009          |
+| 10  | Secrets of Symmetria                   | CYB008          |
+| 4   | Snow Day to be Exact                   | CYB007          |
+| 7   | The Poddleville Case                   | CYB006          |
+| 5   | Sensible Flats                         | CYB005          |
+| 3   | R-Fair City                            | CYB004          |
+| 8   | And They Counted Happily Ever After    | CYB003          |
+| 6   | Zeus on the Loose                      | CYB002          |
+| 1   | Lost My Marbles                        | CYB001          |
++-----+----------------------------------------+-----------------+
